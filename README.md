@@ -42,9 +42,9 @@ The project provides solutions to the above mentioned 4 problems. The solutions 
 ## Contribution
 To contribute to the project, follow these steps:
 1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`.
+2. Create a new branch: `git checkout -b new_branch`.
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the original branch: `git push origin my-feature-branch`.
+4. Push to the original branch: `git push origin new_branch`.
 5. Create a pull request.
 
 After your pull request is merged, you can safely delete your branch.
