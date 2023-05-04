@@ -32,7 +32,7 @@ To run the project, follow these steps:
 
 1. Clone the repository
 2. Open the project in any IDE that supports Java.
-3. Download and extract the IPL dataset from Kaggle.
+3. Download and extract the IPL dataset from Kaggle. https://www.kaggle.com/manasgarg/ipl
 4. Place the `DELIVERIES.csv` and `MATCHES.csv` files in the `resources` folder of the project.
 5. Run the project.
 
